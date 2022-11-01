@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hey! 👋 I'm Natalia! :mermaid: Born in :poland: Based in :denmark:
 
 
-- 🔭 I’m currently working as a Web Development Intern at Veo Technologies
-- :zap: Constantly learning React(hooks) and TypeScript
-- :fire: Super motivated!
+- 🔭 Currently: Looking for new opportunities within Frontend Development.
+- :computer: Previously: Web devloper Intern at Veo Technologies.
+- :books: Studied: Full Stack Web Development at HYF Copenhagen.
 
