@@ -1,7 +1,7 @@
 ### Hey! 👋 I'm Natalia! :mermaid: Born in :poland: Based in :denmark:
 
 
-- 🔭 Currently: Working as Software Engineer Intern at Awaze.
+- 🔭 Currently: Working as a Frontend Software Engineer at Awaze.
 - :computer: Previously: Web devloper Intern at Veo Technologies.
 - :books: Studied: Full Stack Web Development at HYF Copenhagen.
 
